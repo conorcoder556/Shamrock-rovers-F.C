@@ -1,0 +1,46 @@
+body{
+  background-color:lime;
+  font-family:monospace;
+}
+l5m{
+  color:Red;
+}
+uecl{
+  color:Red;
+}
+li{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+n5m{
+  color:Red;
+}
+ 
